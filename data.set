@@ -1,4 +1,4 @@
-"ID","ESD0","ESD","AR","AREA","VOL","TRANS","ELON","COMPACT","CH1","CH2","CONP","PER","INT","SIGMAI","SUMIN","ROUGHN","TAXA","DATE","class"
+"Id","AbdDiameter","EsdDiameter","AspectRatio","AbdArea","AbdVolume","Transparency","Elongation","Compactness","Ch1Peak","Ch2Peak","ConvexPerimeter","Perimeter","Intensity","SigmaIntensity","SumIntensity","Roughness","TAXA","DATE","class"
 36,28.6,15.1,0.12,179.14,12200,0.47,11.09,4.2,2688,91,89.89,97.19,44.67,10.84,19834,1.08,"diat","20071115",FALSE
 37,16.77,10.26,0.18,82.71,2470,0.39,9.74,3.77,2688,91,52.71,62.58,38.75,7.4,7943,1.19,"diat","20071115",FALSE
 38,19.28,11.53,0.16,104.5,3750,0.4,8.96,3.53,2688,91,60.62,68.04,43.51,8.94,11269,1.12,"diat","20071115",FALSE
